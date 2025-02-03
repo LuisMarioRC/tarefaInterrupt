@@ -59,11 +59,6 @@ A solução implementa estratégias para:
 
 4. Grave e execute o programa na placa BitDogLab seguindo os procedimentos padrões.
 
-## Estrutura do Código
-
-- `projeto_leds.c`: Código principal com todas as funcionalidades implementadas.
-- `README.md`: Documentação do projeto.
-
 ## Vídeo
 
 Confira a demonstração prática no link: [Link do vídeo](o).
